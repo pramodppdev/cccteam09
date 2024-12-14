@@ -1,0 +1,37 @@
+*{
+    background-color:beige;
+}
+    
+    h1{
+    text-align: center;
+    color: brown;
+}
+#navbar{
+    color: aquamarine;
+}
+a{
+    color:royalblue;
+    text-decoration: none;
+    /* margin: 100px; */
+    margin-left: 150px;
+    
+}
+button{
+    color: red;
+    margin-left: 250px;
+    margin-top: 20px;
+}
+
+p{
+    color:black;
+}
+h2{
+    color: brown;
+    margin-top: 700px;
+    text-align: center;
+}
+h3{
+    color: brown;
+    margin-top: 1000px;
+    text-align: center;
+}
